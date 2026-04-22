@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Adler! 👋
 
-<!--
-**adlersampaio/adlersampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Gerente de Implantação de Software & Suporte & Estudante de Análise e Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+Atualmente atuando com ECM e Workflow, com forte foco na resolução de problemas, gestão de banco de dados e desenvolvimento de soluções eficientes. Em constante evolução técnica para construir sistemas mais robustos e preparando terreno para novos desafios no mercado internacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+**Ecossistema do Monitoramento NOC & Projetos Recentes:**
+![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Outras linguagens e conhecimentos:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Projetos em Destaque
+
+* 📡 **Monitor de Disponibilidade (NOC):** Sistema completo de monitoramento de URLs com arquitetura de microsserviços. Conta com API REST nativa em FastAPI, dashboard assíncrono em Vanilla JS e disparos de webhook automatizados.
+
+
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SUA_URL_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/adlersampaio111/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampaioadler@gmail.com)
