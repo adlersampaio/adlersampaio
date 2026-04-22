@@ -30,5 +30,5 @@ Atualmente atuando com ECM e Workflow, com forte foco na resolução de problema
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SUA_URL_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/adlersampaio111/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adlersampaio111/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampaioadler@gmail.com)
