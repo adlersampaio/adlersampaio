@@ -26,7 +26,7 @@ Atualmente atuando com ECM e Workflow, com forte foco na resolução de problema
 
 ### 🚀 Projetos em Destaque
 
-* 🐾 **SGCP (Sistema de Gestão de Clínica Pet):** Software de gerenciamento acadêmico desenvolvido em colaboração com Julia e Gabriel. Construído com **PHP, MySQL, HTML5, CSS3 e Vanilla JS**, o sistema apresenta uma arquitetura com endpoints de API consumidos via `fetch` no frontend, autenticação por sessões e um dashboard dinâmico. O banco de dados relacional foi modelado de forma avançada, garantindo integridade e eficiência através do uso de Views, Stored Procedures, Functions e Triggers.
+* 🐾 **SGCP (Sistema de Gestão de Clínica Pet):** Software de gerenciamento acadêmico desenvolvido em colaboração com colegas de classe. Construído com **PHP, MySQL, HTML5, CSS3 e Vanilla JS**, o sistema apresenta uma arquitetura com endpoints de API consumidos via `fetch` no frontend, autenticação por sessões e um dashboard dinâmico. O banco de dados relacional foi modelado de forma avançada, garantindo integridade e eficiência através do uso de Views, Stored Procedures, Functions e Triggers.
 
 * 📡 **Monitor de Disponibilidade:** Sistema completo de monitoramento de URLs com arquitetura de microsserviços. Conta com API REST nativa em FastAPI, dashboard assíncrono em Vanilla JS e disparos de webhook automatizados.
 
