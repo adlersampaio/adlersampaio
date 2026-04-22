@@ -4,9 +4,7 @@
 
 Atualmente atuando com ECM e Workflow, com forte foco na resolução de problemas, gestão de banco de dados e desenvolvimento de soluções eficientes. Em constante evolução técnica para construir sistemas mais robustos e preparando terreno para novos desafios no mercado internacional.
 
-### 🛠️ Tecnologias e Ferramentas
-
-**Ecossistema do Monitoramento NOC & Projetos Recentes:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -18,9 +16,6 @@ Atualmente atuando com ECM e Workflow, com forte foco na resolução de problema
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Outras linguagens:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
