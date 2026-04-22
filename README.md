@@ -10,7 +10,7 @@ Atualmente atuando com ECM e Workflow, com forte foco na resolução de problema
 
 <div align="center">
   <a href="https://github.com/adlersampaio">
-    <img src="https://github-readme-stats.vercel.app/api?username=adlersampaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160" alt="Estatísticas do GitHub do Adler" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adlersampaio&show_icons=true&theme=radical&include_all_commits=true" height="160" alt="Estatísticas do GitHub do Adler" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlersampaio&layout=compact&theme=radical" height="160" alt="Linguagens mais usadas" />
   </a>
 </div>
