@@ -23,8 +23,9 @@ Atualmente atuando com ECM e Workflow, com forte foco na resolução de problema
 
 ### 🚀 Projetos em Destaque
 
-* 📡 **Monitor de Disponibilidade (NOC):** Sistema completo de monitoramento de URLs com arquitetura de microsserviços. Conta com API REST nativa em FastAPI, dashboard assíncrono em Vanilla JS e disparos de webhook automatizados.
+* 📡 **Monitor de Disponibilidade:** Sistema completo de monitoramento de URLs com arquitetura de microsserviços. Conta com API REST nativa em FastAPI, dashboard assíncrono em Vanilla JS e disparos de webhook automatizados.
 
+* 📊 **Dashboard de Implantação e Métricas:** Aplicação Full-Stack desenvolvida para analisar dados de uso de ECM/Workflow. Arquitetura robusta construída com FastAPI e SQLite, incluindo autenticação segura via cookies, rotinas automatizadas de coleta de dados em background (APScheduler), frontend dinâmico e responsivo (Vanilla JS + Chart.js) e empacotamento standalone para deploy em produção via proxy reverso no IIS.
 
 ---
 
