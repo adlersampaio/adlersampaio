@@ -1,27 +1,41 @@
-# Olá, eu sou o Adler! 👋
+# E aí beleza ? Eu sou o Adler 👋
 
-👨‍💻 **Gerente de Implantação de Software & Suporte & Estudante de Análise e Desenvolvimento de Sistemas**
+👨‍💻 **Gerente de Implantação de Software & Suporte | Estudante de Análise e Desenvolvimento de Sistemas**
 
 Atualmente atuando com ECM e Workflow, com forte foco na resolução de problemas, gestão de banco de dados e desenvolvimento de soluções eficientes. Em constante evolução técnica para construir sistemas mais robustos e preparando terreno para novos desafios no mercado internacional.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Bancos de Dados:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📊 Meus Status no GitHub
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160" alt="Estatísticas do GitHub do Adler" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical" height="160" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div>
+
+<br>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* 🐾 **SGCP (Sistema de Gestão de Clínica Pet):** Software de gerenciamento acadêmico desenvolvido em colaboração com colegas de classe. Construído com **PHP, MySQL, HTML5, CSS3 e Vanilla JS**, o sistema apresenta uma arquitetura com endpoints de API consumidos via `fetch` no frontend, autenticação por sessões e um dashboard dinâmico. O banco de dados relacional foi modelado de forma avançada, garantindo integridade e eficiência através do uso de Views, Stored Procedures, Functions e Triggers.
+* 🐾 **SGCP (Sistema de Gestão de Clínica Pet):** Software de gerenciamento acadêmico desenvolvido em colaboração com a equipe. Construído com **PHP, MySQL, HTML5, CSS3 e Vanilla JS**, o sistema apresenta uma arquitetura com endpoints de API consumidos via `fetch` no frontend, autenticação por sessões e um dashboard dinâmico. O banco de dados relacional foi modelado de forma avançada, garantindo integridade e eficiência através do uso de Views, Stored Procedures, Functions e Triggers.
 
 * 📡 **Monitor de Disponibilidade:** Sistema completo de monitoramento de URLs com arquitetura de microsserviços. Conta com API REST nativa em FastAPI, dashboard assíncrono em Vanilla JS e disparos de webhook automatizados.
 
