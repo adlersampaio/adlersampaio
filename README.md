@@ -1,17 +1,17 @@
-# E aí beleza ? Eu sou o Adler 👋
+# Hi there, I'm Adler 👋
 
-👨‍💻 **Gerente de Implantação de Software & Suporte | Estudante de Análise e Desenvolvimento de Sistemas**
+👨‍💻 **Software Implementation & Support Manager | Systems Analysis and Development Student**
 
-Atualmente atuando com ECM e Workflow, com forte foco na resolução de problemas, gestão de banco de dados e desenvolvimento de soluções eficientes. Em constante evolução técnica para construir sistemas mais robustos e preparando terreno para novos desafios no mercado internacional.
+I currently work with ECM and workflow systems, with a strong focus on problem solving, database management, and building efficient solutions. I am continuously improving my technical skills to build more robust systems and prepare for new challenges in the international market.
 
 ---
 
-### 📊 Meus Status no GitHub
+### 📊 My GitHub Stats
 
 <div align="center">
   <a href="https://github.com/adlersampaio">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adlersampaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub do Adler" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlersampaio&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Linguagens mais usadas" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adlersampaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Adler's GitHub stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlersampaio&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most used languages" />
   </a>
 </div>
 
@@ -33,17 +33,17 @@ Atualmente atuando com ECM e Workflow, com forte foco na resolução de problema
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-* 🐾 **SGCP (Sistema de Gestão de Clínica Pet):** Software de gerenciamento acadêmico desenvolvido em colaboração com a equipe. Construído com **PHP, MySQL, HTML5, CSS3 e Vanilla JS**, o sistema apresenta uma arquitetura com endpoints de API consumidos via `fetch` no frontend, autenticação por sessões e um dashboard dinâmico. O banco de dados relacional foi modelado de forma avançada, garantindo integridade e eficiência através do uso de Views, Stored Procedures, Functions e Triggers.
+* 🐾 **SGCP (Pet Clinic Management System):** Academic management software developed in collaboration with a team. Built with **PHP, MySQL, HTML5, CSS3, and Vanilla JS**, the system includes an architecture with API endpoints consumed via `fetch` on the frontend, session-based authentication, and a dynamic dashboard. The relational database was designed with a more advanced structure, ensuring integrity and efficiency through Views, Stored Procedures, Functions, and Triggers.
 
-* 📡 **Monitor de Disponibilidade:** Sistema completo de monitoramento de URLs com arquitetura de microsserviços. Conta com API REST nativa em FastAPI, dashboard assíncrono em Vanilla JS e disparos de webhook automatizados.
+* 📡 **Availability Monitor:** Complete URL monitoring system with a microservices architecture. It includes a native REST API built with FastAPI, an asynchronous Vanilla JS dashboard, and automated webhook triggers.
 
-* 📊 **Dashboard de Implantação e Métricas:** Aplicação Full-Stack desenvolvida para analisar dados de uso de ECM/Workflow. Arquitetura robusta construída com FastAPI e SQLite, incluindo autenticação segura via cookies, rotinas automatizadas de coleta de dados em background (APScheduler), frontend dinâmico e responsivo (Vanilla JS + Chart.js) e empacotamento standalone para deploy em produção via proxy reverso no IIS.
+* 📊 **Implementation and Metrics Dashboard:** Full-stack application developed to analyze ECM/Workflow usage data. It features a robust architecture built with FastAPI and SQLite, secure cookie-based authentication, automated background data collection routines with APScheduler, a dynamic and responsive frontend (Vanilla JS + Chart.js), and standalone packaging for production deployment through a reverse proxy on IIS.
 
 ---
 
-### 📫 Como me encontrar
+### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adlersampaio111/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampaioadler@gmail.com)
