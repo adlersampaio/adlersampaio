@@ -10,10 +10,11 @@ I currently work with ECM and workflow systems, with a strong focus on problem s
 
 <div align="center">
   <a href="https://github.com/adlersampaio">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adlersampaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Adler's GitHub stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlersampaio&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most used languages" />
+    <img src="https://img.shields.io/github/followers/adlersampaio?style=for-the-badge&logo=github&label=Followers&color=blueviolet" alt="GitHub followers" />
   </a>
 </div>
+
+<p align="center">📈 See my full activity and contribution graph on <a href="https://github.com/adlersampaio">my GitHub profile</a>.</p>
 
 <br>
 
